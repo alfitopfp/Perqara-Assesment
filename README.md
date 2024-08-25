@@ -7,6 +7,7 @@ Proyek ini adalah bagian dari tes teknis untuk melamar posisi di Perqara. Proyek
 - [Tentang Proyek](#tentang-proyek)
 - [Variabel](#variabel-yang-digunakan)
 - [Fitur](#fitur)
+- [Tools](#tools)
 - [Kontak](#kontak)
 
 ## Tentang Proyek
@@ -26,6 +27,14 @@ Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok 
 - [x] Segmentasi pelanggan menggunakan teknik klasterisasi.
 - [x] Analisis dan interpretasi segmentasi pelanggan.
 - [x] Laporan hasil segmentasi.
+
+## Tools
+- Python 3.11.2
+- pandas 1.5.2
+- matplotlib 3.6.2
+- seaborn 0.12.1
+- scikit-learn 1.1.3
+- yellowbrick 1.5
 
 ## Kontak
 Alfito Putra Fajar Pratama

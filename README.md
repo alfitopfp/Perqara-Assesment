@@ -37,5 +37,4 @@ Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok 
 - yellowbrick 1.5
 
 ## Kontak
-Alfito Putra Fajar Pratama
-email: alfito.pfp@gmail.com
+Alfito Putra Fajar Pratama - email: alfito.pfp@gmail.com

@@ -1,7 +1,4 @@
 # Segmentasi Perilaku Pelanggan
-
-Proyek ini adalah bagian dari tes teknis untuk melamar posisi di Perqara. Proyek ini bertujuan untuk melakukan segmentasi pelanggan berdasarkan data perilaku mereka menggunakan teknik klasterisasi.
-
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)

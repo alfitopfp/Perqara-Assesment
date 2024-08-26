@@ -1,4 +1,4 @@
-# Segmentasi Perilaku Pelanggan
+# Segmentasi dan Klasifikasi Perilaku Pelanggan
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)

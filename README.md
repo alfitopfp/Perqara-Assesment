@@ -9,7 +9,7 @@
 
 ## Tentang Proyek
 
-Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok (klaster) berdasarkan data perilaku mereka. Data yang digunakan mencakup frekuensi pembelian, total item yang dibeli, total harga, nilai pembayaran total, dan skor ulasan rata-rata. Teknik klasterisasi diterapkan untuk mengidentifikasi pola dan segmentasi yang berbeda di antara pelanggan.
+Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok (klaster) berdasarkan data perilaku mereka. Data yang digunakan mencakup frekuensi pembelian, total item yang dibeli, total harga, nilai pembayaran total, dan skor ulasan rata-rata. Teknik klasterisasi diterapkan untuk mengidentifikasi pola dan segmentasi yang berbeda di antara pelanggan, dan klasifikasi untuk mengkategorikan pelanggan baru kedelam klaster.
 
 ### Variabel yang Digunakan
 
@@ -23,7 +23,7 @@ Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok 
 
 - [x] Segmentasi pelanggan menggunakan teknik klasterisasi.
 - [x] Analisis dan interpretasi segmentasi pelanggan.
-- [x] Laporan hasil segmentasi.
+- [x] Klasifikasi pelanggan.
 
 ## Tools
 - Python 3.11.2

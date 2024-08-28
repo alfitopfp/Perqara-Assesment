@@ -1,29 +1,29 @@
-# Segmentasi dan Klasifikasi Perilaku Pelanggan
-## Daftar Isi
+# Customer Behavior Segmentation and Classification
+## Table of Contents
 
-- [Tentang Proyek](#tentang-proyek)
-- [Variabel](#variabel-yang-digunakan)
-- [Fitur](#fitur)
+- [About the Project](#about-the-project)
+- [Variables](#variables)
+- [Features](#features)
 - [Tools](#tools)
-- [Kontak](#kontak)
+- [Contact](#contact)
 
-## Tentang Proyek
+## About the Project
 
-Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok (klaster) berdasarkan data perilaku mereka. Data yang digunakan mencakup frekuensi pembelian, total item yang dibeli, total harga, nilai pembayaran total, dan skor ulasan rata-rata. Teknik klasterisasi diterapkan untuk mengidentifikasi pola dan segmentasi yang berbeda di antara pelanggan, dan klasifikasi untuk mengkategorikan pelanggan baru kedelam klaster.
+This project aims to segment Perqara's customers into various groups (clusters) based on their behavioral data. The data used includes purchase frequency, total items bought, total price, total payment value, and average review score. Clustering techniques are applied to identify different patterns and segmentations among customers, and classification is used to categorize new customers into these clusters.
 
-### Variabel yang Digunakan
+### Variables
 
-- **purchase_frequency:** Frekuensi pembelian pelanggan.
-- **total_items_bought:** Jumlah total item yang dibeli oleh pelanggan.
-- **total_price:** Total harga yang dibelanjakan oleh pelanggan.
-- **total_payment_value:** Nilai total pembayaran dari pelanggan.
-- **avg_review_score:** Skor ulasan rata-rata yang diberikan pelanggan.
+- **purchase_frequency:** The frequency of customer purchases.
+- **total_items_bought:** The total number of items purchased by the customer.
+- **total_price:** The total amount spent by the customer.
+- **total_payment_value:** The total payment value from the customer.
+- **avg_review_score:** The average review score given by the customer.
 
-## Fitur
+## Features
 
-- [x] Segmentasi pelanggan menggunakan teknik klasterisasi.
-- [x] Analisis dan interpretasi segmentasi pelanggan.
-- [x] Klasifikasi pelanggan.
+- [x] Customer segmentation using clustering techniques.
+- [x] Analysis and interpretation of customer segmentation.
+- [x] Customer classification.
 
 ## Tools
 - Python 3.11.2
@@ -33,5 +33,5 @@ Proyek ini bertujuan untuk membagi pelanggan Perqara ke dalam beberapa kelompok 
 - scikit-learn 1.1.3
 - yellowbrick 1.5
 
-## Kontak
+## Contact
 Alfito Putra Fajar Pratama - email: alfito.pfp@gmail.com

@@ -31,6 +31,7 @@ This project aims to segment Perqara's customers into various groups (clusters) 
 - matplotlib 3.6.2
 - seaborn 0.12.1
 - scikit-learn 1.1.3
+- imblearn
 - yellowbrick 1.5
 
 ## Contact
